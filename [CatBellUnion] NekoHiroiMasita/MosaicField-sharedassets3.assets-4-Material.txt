@@ -1,0 +1,114 @@
+0 Material Base
+ 1 string m_Name = "MosaicField"
+ 0 PPtr<Shader> m_Shader
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8
+ 1 string m_ShaderKeywords = ""
+ 0 unsigned int m_LightmapFlags = 5
+ 0 bool m_EnableInstancingVariants = false
+ 1 bool m_DoubleSidedGI = false
+ 0 int m_CustomRenderQueue = -1
+ 0 map stringTagMap
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 vector disabledShaderPasses
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 UnityPropertySheet m_SavedProperties
+  0 map m_TexEnvs
+   0 Array Array (0 items)
+    0 int size = 0
+  0 map m_Floats
+   0 Array Array (18 items)
+    0 int size = 18
+    [0]
+     0 pair data
+      1 string first = "_BlockSize"
+      0 float second = 1
+    [1]
+     0 pair data
+      1 string first = "_BumpScale"
+      0 float second = 1
+    [2]
+     0 pair data
+      1 string first = "_Cutoff"
+      0 float second = 0.5
+    [3]
+     0 pair data
+      1 string first = "_DetailNormalMapScale"
+      0 float second = 1
+    [4]
+     0 pair data
+      1 string first = "_DstBlend"
+      0 float second = 0
+    [5]
+     0 pair data
+      1 string first = "_FalloffDistance"
+      0 float second = 10
+    [6]
+     0 pair data
+      1 string first = "_Glossiness"
+      0 float second = 0.5
+    [7]
+     0 pair data
+      1 string first = "_MaxAccumulation"
+      0 float second = 50
+    [8]
+     0 pair data
+      1 string first = "_Metallic"
+      0 float second = 0
+    [9]
+     0 pair data
+      1 string first = "_Mode"
+      0 float second = 0
+    [10]
+     0 pair data
+      1 string first = "_OcclusionStrength"
+      0 float second = 1
+    [11]
+     0 pair data
+      1 string first = "_Parallax"
+      0 float second = 0.0199999996
+    [12]
+     0 pair data
+      1 string first = "_RayDiffusion"
+      0 float second = 0.00999999978
+    [13]
+     0 pair data
+      1 string first = "_RayMarchDistance"
+      0 float second = 0.200000003
+    [14]
+     0 pair data
+      1 string first = "_SrcBlend"
+      0 float second = 1
+    [15]
+     0 pair data
+      1 string first = "_UVSec"
+      0 float second = 0
+    [16]
+     0 pair data
+      1 string first = "_ZWrite"
+      0 float second = 1
+    [17]
+     0 pair data
+      1 string first = "g_intensity"
+      0 float second = 1
+  0 map m_Colors
+   0 Array Array (2 items)
+    0 int size = 2
+    [0]
+     0 pair data
+      1 string first = "_Color"
+      0 ColorRGBA second
+       0 float r = 1
+       0 float g = 1
+       0 float b = 1
+       0 float a = 1
+    [1]
+     0 pair data
+      1 string first = "_EmissionColor"
+      0 ColorRGBA second
+       0 float r = 0
+       0 float g = 0
+       0 float b = 0
+       0 float a = 1
