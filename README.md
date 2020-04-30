@@ -9,6 +9,3 @@ unity h game uncensoreb patch
 例如：mosaic的数值改为1f，mosaic改成hide()。具体怎么改需要分析mosaic的语句。留意_blocksize，mosaic等关键词。
 使用AssetsBundleExtractor把assets中含有mosaic的文件删除。
 
-求助
-如何提取unity游戏中的Live2d模型？
-参考Perfare/AzurLaneLive2DExtract
